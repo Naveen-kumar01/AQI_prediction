@@ -1,0 +1,118 @@
+2021-11-18/14:21:47		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 591
+
+2021-11-18/14:26:58		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2021-11-18/15:08:28		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 591
+
+2021-11-24/10:40:22		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-24/11:35:46		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-24/11:42:50		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-24/11:59:51		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-24/12:27:52		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-24/22:23:41		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-24/23:02:42		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-24/23:35:30		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-24/23:36:49		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-24/23:40:34		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/10:54:45		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/10:56:38		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/10:58:46		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:07:45		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:09:03		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:11:20		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:13:01		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:13:55		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:14:42		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:21:50		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:23:02		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:25:37		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:27:32		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:29:16		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:34:49		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:36:35		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:39:46		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/12:45:18		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/13:32:53		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/13:35:44		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/13:36:05		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/13:38:45		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/13:56:01		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/14:00:12		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/14:11:50		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/14:13:44		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/14:16:33		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/14:43:42		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-25/14:55:11		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/10:53:10		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/11:01:05		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/11:10:27		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/11:14:45		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/11:16:47		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/11:23:02		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/11:33:42		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/11:40:27		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/11:49:51		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/12:02:31		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/12:07:23		LengthOfDigitalStamp:: 2	NumberofColumns:: 16
+
+2021-11-26/13:01:59		LengthOfDateStampInFile:: 2	NumberofColumns:: 15
+
+2021-11-26/13:10:26		LengthOfDateStampInFile:: 2	NumberofColumns:: 15
+
+2021-11-26/13:13:46		LengthOfDateStampInFile:: 2	NumberofColumns:: 15
+
+2021-11-26/13:19:37		LengthOfDateStampInFile:: 2	NumberofColumns:: 15
+
+2021-11-26/13:31:29		LengthOfDateStampInFile:: 2	NumberofColumns:: 15
+
+2021-11-26/13:35:19		LengthOfDateStampInFile:: 2	NumberofColumns:: 15
+

@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="cement-strength-heroku",
+    name="AQI-prediction-heroku",
     version="0.0.3",
     description="ML project",
     author="Naveen Kumar",

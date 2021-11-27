@@ -1,0 +1,65 @@
+2021-11-18/14:21:47		Column Length Validation Started!!
+2021-11-18/14:21:49		Column Length Validation Completed!!
+2021-11-18/15:08:29		Column Length Validation Started!!
+2021-11-18/15:08:31		Column Length Validation Completed!!
+2021-11-26/13:02:00		Column Length Validation Started!!
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_96.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_01.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_05.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_10.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_16.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_20.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_25.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_30.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_35.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_40.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_45.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_50.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_55.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_62.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_73.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_82.csv
+2021-11-26/13:02:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_91.csv
+2021-11-26/13:02:00		Column Length Validation Completed!!
+2021-11-26/13:10:26		Column Length Validation Started!!
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_96.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_01.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_05.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_10.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_16.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_20.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_25.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_30.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_35.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_40.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_45.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_50.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_55.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_62.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_73.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_82.csv
+2021-11-26/13:10:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_91.csv
+2021-11-26/13:10:26		Column Length Validation Completed!!
+2021-11-26/13:13:53		Column Length Validation Started!!
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_96.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_01.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_05.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_10.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_16.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_20.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_25.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_30.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_35.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_40.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_45.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_50.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_55.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_62.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_73.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_82.csv
+2021-11-26/13:13:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: AQI_91.csv
+2021-11-26/13:13:53		Column Length Validation Completed!!
+2021-11-26/13:31:35		Column Length Validation Started!!
+2021-11-26/13:31:57		Column Length Validation Completed!!
+2021-11-26/13:35:20		Column Length Validation Started!!
+2021-11-26/13:35:20		Column Length Validation Completed!!
