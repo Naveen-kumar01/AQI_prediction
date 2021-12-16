@@ -62,9 +62,7 @@ def Check_model_exist():
             return model
         else:
             s3 = boto3.resource(service_name="s3",
-                                region_name="us-east-2",
-                                aws_access_key_id="AKIA4HV2ZHHGMISVHC5W",
-                                aws_secret_access_key="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")
+                                region_name="us-east-2")
             MultiColumnLabelEncoder()
             with open('basic_rf_model.pkl', 'wb') as data:
                 s3.Bucket("aqi-data001").download_fileobj("basic_rf_model.pkl", data)
