@@ -12,6 +12,7 @@ from sklearn.preprocessing import LabelEncoder
 import pickle
 import pandas as pd
 import json
+import boto3
 
 os.putenv('LANG', 'en_US.UTF-8')
 os.putenv('LC_ALL', 'en_US.UTF-8')
@@ -51,32 +52,49 @@ class MultiColumnLabelEncoder:
     def fit_transform(self, X, y=None):
         return self.fit(X, y).transform(X)
 
-def ValuePredictor(to_predict_list):
-	loaded_model=pickle.load(open("basic_rf_model.pkl", "rb"))
-	result = loaded_model.predict(to_predict_list)
-	return result[0]
+
+def Check_model_exist():
+        l=os.listdir()
+        if "basic_rf_model.pkl" in l:
+            MultiColumnLabelEncoder()
+            with open('basic_rf_model.pkl', 'rb') as data:
+                model = pickle.load(data)
+            return model
+        else:
+            s3 = boto3.resource(service_name="s3",
+                                region_name="us-east-2",
+                                aws_access_key_id="AKIA4HV2ZHHGMISVHC5W",
+                                aws_secret_access_key="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")
+            MultiColumnLabelEncoder()
+            with open('basic_rf_model.pkl', 'wb') as data:
+                s3.Bucket("aqi-data001").download_fileobj("basic_rf_model.pkl", data)
+            with open('basic_rf_model.pkl', 'rb') as data:
+                model = pickle.load(data)
+            return model
 
 @app.route('/result', methods = ['POST'])
 def result():
-	if request.method == 'POST':
-		pred_list = request.form.to_dict()
-		pred_list['City'] = (pred_list['City'])
-		pred_list['PM2.5'] = float(pred_list['PM2.5'])
-		pred_list['PM10'] = float(pred_list['PM10'])
-		pred_list['NO'] = float(pred_list['NO'])
-		pred_list['NO2'] = float(pred_list['NO2'])
-		pred_list['NOx'] = float(pred_list['NOx'])
-		pred_list['NH3'] = float(pred_list['NH3'])
-		pred_list['CO'] = float(pred_list['CO'])
-		pred_list['SO2'] = float(pred_list['SO2'])
-		pred_list['O3'] = float(pred_list['O3'])
-		pred_list['Benzene'] = float(pred_list['Benzene'])
-		pred_list['Toluene'] = float(pred_list['Toluene'])
-		pred_list['Xylene'] = float(pred_list['Xylene'])
-		sample_input = pd.DataFrame(pd.Series(pred_list)).T
-		result = ValuePredictor(sample_input)
-		result = round(result, 2)
-	return render_template("res.html", prediction=result)
+    if request.method == 'POST':
+        pred_list = request.form.to_dict()
+        pred_list['City'] = (pred_list['City'])
+        pred_list['PM2.5'] = float(pred_list['PM2.5'])
+        pred_list['PM10'] = float(pred_list['PM10'])
+        pred_list['NO'] = float(pred_list['NO'])
+        pred_list['NO2'] = float(pred_list['NO2'])
+        pred_list['NOx'] = float(pred_list['NOx'])
+        pred_list['NH3'] = float(pred_list['NH3'])
+        pred_list['CO'] = float(pred_list['CO'])
+        pred_list['SO2'] = float(pred_list['SO2'])
+        pred_list['O3'] = float(pred_list['O3'])
+        pred_list['Benzene'] = float(pred_list['Benzene'])
+        pred_list['Toluene'] = float(pred_list['Toluene'])
+        pred_list['Xylene'] = float(pred_list['Xylene'])
+        sample_input = pd.DataFrame(pd.Series(pred_list)).T
+        model = Check_model_exist()
+        result = model.predict(sample_input)
+        result=result[0]
+        result = round(result, 2)
+        return render_template("res.html", prediction=result)
 
 @app.route("/predict", methods=['POST'])
 @cross_origin()
